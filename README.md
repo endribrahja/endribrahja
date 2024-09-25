@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @endribrahja
-- 👀 I’m interested in ppp
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
 
 <!---
 endribrahja/endribrahja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
